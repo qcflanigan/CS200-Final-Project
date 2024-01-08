@@ -11,10 +11,6 @@ public class Main {
     System.out.println(s.findWeekNum("2022-03-11"));
     System.out.println(s.findWeekNum("2022-04-28"));
     //System.out.println(s.findWeekNum("03-27-2022"));
-    Provider p = new Provider();
-    Provider prov0 = new Provider("liamt2003@yahoo.com", "password", "123454321", "14355 Main St.", "Vernon Hills", "NY", "83001", "Liam T");
-    System.out.println(p.toString());
-    System.out.println(prov0.toString());
     
     // TODO Auto-generated method stub
     //System.out.println("Hello World!");
